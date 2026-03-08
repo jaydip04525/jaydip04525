@@ -38,8 +38,7 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaydip04525&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=jaydip04525&theme=radical)
+
 ---
 
 ## 💻 Tech Stack:
