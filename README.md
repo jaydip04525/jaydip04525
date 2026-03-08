@@ -28,7 +28,7 @@
 
 Stay updated with the latest tutorials and projects by following on Instagram, Facebook and Twitter.
 
-[![Jaydip Dey Instagram](https://img.shields.io/badge/Instagram-Jaydip%20Dey-pink?logo=instagram&logoColor=white)](https://www.instagram.com/jaydip04525) [![Jaydip Dey Facebook](https://img.shields.io/badge/Facebook-Jaydip%20Dey-blue?logo=facebook&logoColor=white)](https://www.facebook.com/jaydip04525) [![Jaydip Dey Twitter](https://img.shields.io/badge/Twitter-Jaydip%20Dey-lightblue?logo=twitter&logoColor=white)](https://twitter.com/jaydip04525) [![Jaydip Dey LinkedIn](https://img.shields.io/badge/LinkedIn-Jaydip%20Dey-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydip04525)
+[![Jaydip Dey Instagram](https://img.shields.io/badge/Instagram-Jaydip%20Dey-pink?logo=instagram&logoColor=white)](https://www.instagram.com/jaydip04525) [![Jaydip Dey Facebook](https://img.shields.io/badge/Facebook-Jaydip%20Dey-blue?logo=facebook&logoColor=white)](https://www.facebook.com/jaydip04525) [![Jaydip Dey Twitter](https://img.shields.io/badge/Twitter-Jaydip%20Dey-lightblue?logo=twitter&logoColor=white)](https://twitter.com/jaydip04525) [![Jaydip Dey LinkedIn](https://img.shields.io/badge/LinkedIn-Jaydip%20Dey-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydip-dey-8a3ba3327)
 
 
 ---
