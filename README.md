@@ -25,7 +25,15 @@ Stay updated with the latest tutorials and projects by following on Instagram, F
 
 [![Jaydip Dey Instagram](https://img.shields.io/badge/Instagram-Jaydip%20Dey-pink?logo=instagram&logoColor=white)](https://www.instagram.com/jaydip04525) [![Jaydip Dey Facebook](https://img.shields.io/badge/Facebook-Jaydip%20Dey-blue?logo=facebook&logoColor=white)](https://www.facebook.com/jaydip04525) [![Jaydip Dey Twitter](https://img.shields.io/badge/Twitter-Jaydip%20Dey-lightblue?logo=twitter&logoColor=white)](https://twitter.com/jaydip04525) [![Jaydip Dey LinkedIn](https://img.shields.io/badge/LinkedIn-Jaydip%20Dey-green?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydip-dey-8a3ba3327) [![Portfolio](https://img.shields.io/badge/Portfolio-Jaydip%20Dey-orange?logo=vercel&logoColor=white)](https://jaydipdey.vercel.app)
 
+---
 
+## 💸 Support My Work 🤝	
+
+If you’ve found my content helpful — tutorials, code, or videos — and want to say **thanks**, here are a few ways to support 💖:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jaydip04525)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/jaydip04525/)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jaydip04525)
 
 ---
 
