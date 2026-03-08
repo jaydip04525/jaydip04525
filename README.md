@@ -23,3 +23,87 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h1 align="center">Hi 👋, I'm Jaydip Dey</h1>
+<h3 align="center">💻 Programmer | Web Developer | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=C+Programmer;Web+Developer;Open+Source+Learner;Building+Projects+Everyday" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Student passionate about **Programming & Software Development**
+- 💻 Currently learning **Data Structures & Algorithms**
+- 🌐 Interested in **Web Development**
+- 🧠 Love building **tools, apps and utilities**
+- 📫 Reach me: **jaydipdey04525@gmail.com**
+
+---
+
+# 🛠 Tech Stack
+
+### 👨‍💻 Programming
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+
+### ☁️ Hosting
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
+
+### 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=jaydip04525&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jaydip04525&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip04525&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 Achievements
+
+![](https://github-profile-trophy.vercel.app/?username=jaydip04525&theme=algolia)
+
+---
+
+# 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=jaydip04525&color=blue)
+
+---
+
+# ✨ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+---
+
+# 🤝 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://jaydipdey.vercel.app)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/jaydip04525)
+
+---
+
+⭐ *Always learning. Always building.*
