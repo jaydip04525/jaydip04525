@@ -36,9 +36,8 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jaydip04525)
 
 ---
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaydip04525theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jaydip04525&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
