@@ -35,9 +35,8 @@ If you’ve found my content helpful — tutorials, code, or videos — and want
 [![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/jaydip04525/)
 [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jaydip04525)
 [![Google Pay](https://img.shields.io/badge/Google%20Pay-UPI-4285F4?style=for-the-badge&logo=google-pay&logoColor=white)](upi://pay?pa=dipg75846-1@okaxis&pn=Jaydip%20Dey)
-
+[![Google Pay](https://img.shields.io/badge/Google%20Pay-UPI-4285F4?style=for-the-badge&logo=google-pay&logoColor=white)](https://upi.me/dipg75846-1@okaxis)
 [![PhonePe](https://img.shields.io/badge/PhonePe-UPI-5F259F?style=for-the-badge&logo=phonepe&logoColor=white)](upi://pay?pa=yourupiid@upi&pn=Jaydip%20Dey)
-
 [![Paytm](https://img.shields.io/badge/Paytm-UPI-00BAF2?style=for-the-badge&logo=paytm&logoColor=white)](upi://pay?pa=yourupiid@upi&pn=Jaydip%20Dey)
 
 ---
