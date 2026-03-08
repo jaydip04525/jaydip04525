@@ -1,3 +1,37 @@
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h1 align="center">💫 Hi 👋, I'm Jaydip Dey</h1>
+<h3 align="center">💻 Programmer | Web Developer | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Open+Source+Learner;Building+Projects+Everyday" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science student passionate about **Programming & Technology**
+- 🌐 Interested in **Web Development and building interactive websites**
+- 🧠 Love building **tools, utilities, and software projects**
+- 🚀 Exploring **problem solving and improving coding skills every day**
+- 📫 Reach me: **dipg75846@gmail.com**
+
+---
+##🤝 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://jaydipdey.vercel.app)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/jaydip04525)
+
+## 🔗 🤝 Connect With Me 
+
+Stay updated with the latest tutorials and projects by following on Instagram, Facebook and Twitter.
+
+[![Jaydip Dey Instagram](https://img.shields.io/badge/Instagram-Jaydip%20Dey-pink?logo=instagram&logoColor=white)](https://www.instagram.com/jaydip04525) [![Jaydip Dey Facebook](https://img.shields.io/badge/Facebook-Jaydip%20Dey-blue?logo=facebook&logoColor=white)](https://www.facebook.com/jaydip04525) [![Jaydip Dey Twitter](https://img.shields.io/badge/Twitter-Jaydip%20Dey-lightblue?logo=twitter&logoColor=white)](https://twitter.com/jaydip04525) [![Jaydip Dey LinkedIn](https://img.shields.io/badge/LinkedIn-Jaydip%20Dey-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydip04525)
+
+
+---
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)
@@ -27,11 +61,11 @@
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h1 align="center">Hi 👋, I'm Jaydip Dey</h1>
+<h1 align="center">💫 Hi 👋, I'm Jaydip Dey</h1>
 <h3 align="center">💻 Programmer | Web Developer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=C+Programmer;Web+Developer;Open+Source+Learner;Building+Projects+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web+Developer;Open+Source+Learner;Building+Projects+Everyday" />
 </p>
 
 ---
